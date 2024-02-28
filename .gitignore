@@ -1,0 +1,12 @@
+.vscode/
+
+node_modules/
+
+dist/
+build/
+temp/
+
+.DS_Store
+Thumbs.db
+
+config.local.js
